@@ -6,3 +6,4 @@ BOW RESOLUSI
 - 5
 - 6
 - 7
+- Laravel 8
